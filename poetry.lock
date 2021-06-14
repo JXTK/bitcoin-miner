@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "Python Bitcoin Tools"
+name = "bitcoin"
+optional = false
+python-versions = "*"
+version = "1.1.42"
+
+[metadata]
+content-hash = "5c0484d8257c4bd0e15a9fe4cf788dc2e5ce8627755cd3d50719e5a989fce768"
+python-versions = "^3.8"
+
+[metadata.files]
+bitcoin = [
+    {file = "bitcoin-1.1.42.tar.gz", hash = "sha256:11ba70bd9e1c764f6bb2c4bd4c7fbebd5c9053c73f4d4325b00a98869a8b7236"},
+]
